@@ -1,8 +1,11 @@
 # DesafioQA
 Desafio para candidatos a QA na unidade Dasa EXP
 
+
 Desafio 1
+
 O objetivo é criar um projeto de automação versionado no Github (https://github.com/), utilizando Cucumber, Capybara com Ruby para automatizar cenários para as duas Features abaixo:
+
 
 1 - Acessar o GitHub e criar um board Kanban para implementar um plano de testes para a funcionalidade Busca de Exames do site https://www.sergiofranco.com.br 
 
@@ -23,10 +26,13 @@ O objetivo é criar um projeto de automação versionado no Github (https://gith
 
  *   Validar a apresentação do exame na lista de resultados
  
- 
+
+
  
 Desafio 2
+
 O objetivo é criar um projeto de automação versionado no Github (https://github.com/), utilizando Cucumber, HTTParty com Ruby para automatizar cenários para as duas Features abaixo:
+
 
 1 - Acessar o GitHub e criar um board Kanban para implementar um plano de testes para a funcionalidade Busca de Exames no endpoint https://www.sergiofranco.com.br/provider/exames/null?&idMarca=24&query=null 
 
